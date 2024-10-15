@@ -1,4 +1,10 @@
 # DeepFake-Detection
+
+
+https://github.com/user-attachments/assets/868e3129-275f-4394-97f3-2476f6965e97
+
+
+
 This project is a Flask-based social media application that allows users to manage their profiles, reset passwords, and upload profile pictures. A key highlight of the project is its advanced deepfake detection system integrated with both image and video content.
 
 Deepfake Detection System Overview:
